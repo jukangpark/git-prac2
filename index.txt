@@ -4,3 +4,5 @@
 4. 여기여기
 5. 저기저기
 6. 아아아아
+6. 효화가 만들어놓은 다른 브랜치에서 commit 날리고 pull 해보고
+origin master 에서 commit날리고 pull 해보고
