@@ -6,6 +6,4 @@
 6. 아아아아
 7. master에서는 master에있는거 pull 하기전에 커밑 하면 에러날걸?
 8. master 에서 그냥 puㅣㅣ g하기전에 무지성 커밑
-9. 왜 에러가 안나는거냐.
-
-11. 10번 비워두고 여기서 작성하면 conflict 안남 이 상태에서 pull origin master 하기 전에 commit 해보자.
+9. 왜 에러가 안나는거냐......
