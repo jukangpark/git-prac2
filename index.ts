@@ -1,3 +1,0 @@
-interface jukang {
-  name: string;
-}
