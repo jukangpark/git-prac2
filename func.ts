@@ -1,0 +1,3 @@
+interface func {
+    name: string;
+}
