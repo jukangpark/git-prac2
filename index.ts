@@ -1,0 +1,3 @@
+interface jukang {
+  name: string;
+}
