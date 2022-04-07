@@ -1,0 +1,1 @@
+주강이가 먼저 github remote 에 push 할거임.
